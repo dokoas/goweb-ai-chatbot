@@ -4,4 +4,4 @@ Serveur Node.js pour chatbot IA gratuit (via Ollama + Mistral)
 
 🚀 Déployer le chatbot IA (Mistral via Ollama) gratuitement :
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/VOTRE-UTILISATEUR/goweb-ai-chatbot)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/dokoas/goweb-ai-chatbot)
